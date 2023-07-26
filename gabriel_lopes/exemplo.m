@@ -1,4 +1,4 @@
-%Gabriel Lopes Lomeu Reis Oliveira
+%Gabriel Lopes Lomeu Reis Oliveira.
 %07/2023
 %Cin UFPE - Stellantis
 
